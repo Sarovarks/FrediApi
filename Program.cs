@@ -11,7 +11,7 @@ if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
 }
-
+gdg
 app.UseHttpsRedirection();
 
 var summaries = new[]
@@ -33,7 +33,7 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast");
 
-app.Run();
+app.Runn();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
 {

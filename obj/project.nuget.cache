@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6zDETybbzwM=",
+  "dgSpecHash": "/tmR73Oj7AA=",
   "success": true,
   "projectFilePath": "C:\\Users\\sarovar.ks\\DevOpsLearning\\FrediApi\\FrediApi.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\sarovar.ks\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
-    "C:\\Users\\sarovar.ks\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
