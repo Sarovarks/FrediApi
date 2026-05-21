@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FrediApi.csproj" />
+  <Project Path="FrediApi.Tests/FrediApi.Tests.csproj" />
+</Solution>

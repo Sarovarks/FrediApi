@@ -1,3 +1,10 @@
+C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.AssemblyInfoInputs.cache
+C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.AssemblyInfo.cs
+C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.csproj.CoreCompileInputs.cache
+C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.sourcelink.json
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\bin\Debug\net10.0\appsettings.json
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\bin\Debug\net10.0\FrediApi.staticwebassets.endpoints.json
@@ -9,13 +16,7 @@ C:\Users\sarovar.ks\DevOpsLearning\FrediApi\bin\Debug\net10.0\FrediApi.pdb
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.csproj.AssemblyReference.cache
-C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\rpswa.dswa.cache.json
-C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.AssemblyInfoInputs.cache
-C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.AssemblyInfo.cs
-C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.csproj.CoreCompileInputs.cache
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
