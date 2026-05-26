@@ -32,3 +32,4 @@ C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\refint\FrediApi.dl
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.pdb
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\FrediApi.genruntimeconfig.cache
 C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\ref\FrediApi.dll
+C:\Users\sarovar.ks\DevOpsLearning\FrediApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
